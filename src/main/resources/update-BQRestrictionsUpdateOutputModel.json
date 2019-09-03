@@ -1,0 +1,19 @@
+{
+  "customerAccessProfileAgreementInstanceRecord" : {
+    "customerAccessAgreementValidFromToDate" : "09-22-2018",
+    "customerChannelAccessProfileRecord" : {},
+    "customerReference" : "734680"
+  },
+  "restrictionsInstanceRecord" : {
+    "channelAccessRestrictionsRecord" : {
+      "channelAccessProductServiceFrequencyLimitRestrictions" : "channelAccessProductServiceFrequencyLimitRestrictions",
+      "channelAccessProductServiceTypeUsage" : "channelAccessProductServiceTypeUsage",
+      "channelAccessProductServiceTimeDurationRestrictions" : "channelAccessProductServiceTimeDurationRestrictions",
+      "channelAccessProductServiceChannelDeviceRestrictions" : "channelAccessProductServiceChannelDeviceRestrictions",
+      "channelAccessProductServiceLocationRestrictions" : "channelAccessProductServiceLocationRestrictions"
+    }
+  },
+  "restrictionsUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "restrictionsUpdateActionTaskReference" : "RUATR709710"
+}

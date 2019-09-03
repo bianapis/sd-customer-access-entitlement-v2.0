@@ -1,0 +1,12 @@
+{
+  "customerAccessProfileAgreementEvaluateActionReference" : "CAPAEAR719580",
+  "customerAccessProfileAgreementInstanceReference" : "CAPAIR711904",
+  "customerAccessProfileAgreementInstanceRecord" : {
+    "customerAccessAgreementValidFromToDate" : "09-22-2018",
+    "customerChannelAccessProfileRecord" : {},
+    "customerAccessAgreementSignaturesResponsibleParties" : "customerAccessAgreementSignaturesResponsibleParties",
+    "documentDirectoryEntryInstanceReference" : "782506"
+  },
+  "customerAccessProfileAgreementEvaluateActionRecord" : {},
+  "customerAccessProfileAgreementInstanceStatus" : "customerAccessProfileAgreementInstanceStatus"
+}

@@ -1,0 +1,12 @@
+{
+  "requestRecordReference" : "RRR751224",
+  "customerAccessProfileAgreementInstanceRecord" : {
+    "customerAccessAgreementValidFromToDate" : "09-22-2018",
+    "customerChannelAccessProfileRecord" : {},
+    "customerAccessAgreementSignaturesResponsibleParties" : "customerAccessAgreementSignaturesResponsibleParties",
+    "documentDirectoryEntryInstanceReference" : "758517"
+  },
+  "customerAccessProfileAgreementRequestActionTaskReference" : "CAPARATR778019",
+  "customerAccessProfileAgreementRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

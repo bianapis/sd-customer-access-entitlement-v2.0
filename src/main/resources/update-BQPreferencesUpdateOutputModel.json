@@ -1,0 +1,10 @@
+{
+  "customerAccessProfileAgreementInstanceRecord" : {
+    "customerAccessAgreementValidFromToDate" : "09-22-2018",
+    "customerChannelAccessProfileRecord" : {},
+    "customerReference" : "796894"
+  },
+  "preferencesUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "preferencesUpdateActionTaskReference" : "PUATR735301"
+}

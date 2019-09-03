@@ -1,0 +1,15 @@
+{
+  "preferencesInstanceStatus" : "preferencesInstanceStatus",
+  "customerAccessProfileAgreementInstanceRecord" : {
+    "customerChannelAccessProfileRecord" : {}
+  },
+  "preferencesEvaluateActionReference" : "PEAR772209",
+  "preferencesInstanceRecord" : {
+    "channelAccessPreferencesRecord" : {
+      "channelAccessPreferenceReference" : "718969",
+      "channelAccessPreferenceType" : "channelAccessPreferenceType"
+    }
+  },
+  "preferencesEvaluateActionRecord" : {},
+  "preferencesInstanceReference" : "PIR778762"
+}

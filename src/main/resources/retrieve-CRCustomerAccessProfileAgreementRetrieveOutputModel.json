@@ -1,0 +1,22 @@
+{
+  "customerAccessProfileAgreementRetrieveActionTaskRecord" : {},
+  "customerAccessProfileAgreementRetrieveActionResponse" : "customerAccessProfileAgreementRetrieveActionResponse",
+  "customerAccessProfileAgreementInstanceRecord" : {
+    "customerAccessAgreementValidFromToDate" : "09-22-2018",
+    "customerChannelAccessProfileRecord" : {},
+    "customerReference" : "782678",
+    "customerAccessAgreementSignaturesResponsibleParties" : "customerAccessAgreementSignaturesResponsibleParties",
+    "documentDirectoryEntryInstanceReference" : "762209"
+  },
+  "customerAccessProfileAgreementRetrieveActionTaskReference" : "CAPARATR795670",
+  "customerAccessProfileAgreementInstanceReportRecord" : {
+    "customerAccessProfileAgreementInstanceReportData" : "customerAccessProfileAgreementInstanceReportData",
+    "customerAccessProfileAgreementInstanceReport" : {},
+    "customerAccessProfileAgreementInstanceReportType" : "customerAccessProfileAgreementInstanceReportType"
+  },
+  "customerAccessProfileAgreementInstanceAnalysis" : {
+    "customerAccessProfileAgreementInstanceAnalysisReportType" : "customerAccessProfileAgreementInstanceAnalysisReportType",
+    "customerAccessProfileAgreementInstanceAnalysisData" : "customerAccessProfileAgreementInstanceAnalysisData",
+    "customerAccessProfileAgreementInstanceAnalysisReport" : {}
+  }
+}

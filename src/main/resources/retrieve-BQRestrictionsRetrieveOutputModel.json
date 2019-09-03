@@ -1,0 +1,31 @@
+{
+  "restrictionsRetrieveActionTaskReference" : "RRATR788711",
+  "restrictionsInstanceReport" : {
+    "restrictionsInstanceReportRecord" : {},
+    "restrictionsInstanceReportParameters" : "restrictionsInstanceReportParameters",
+    "restrictionsInstanceReport" : {},
+    "restrictionsInstanceReportType" : "restrictionsInstanceReportType"
+  },
+  "restrictionsInstanceAnalysis" : {
+    "restrictionsInstanceAnalysisReportType" : "restrictionsInstanceAnalysisReportType",
+    "restrictionsInstanceAnalysisRecord" : {},
+    "restrictionsInstanceAnalysisParameters" : "restrictionsInstanceAnalysisParameters",
+    "restrictionsInstanceAnalysisReport" : {}
+  },
+  "restrictionsRetrieveActionTaskRecord" : {},
+  "customerAccessProfileAgreementInstanceRecord" : {
+    "customerAccessAgreementValidFromToDate" : "09-22-2018",
+    "customerChannelAccessProfileRecord" : {},
+    "customerReference" : "727616"
+  },
+  "restrictionsInstanceRecord" : {
+    "channelAccessRestrictionsRecord" : {
+      "channelAccessProductServiceFrequencyLimitRestrictions" : "channelAccessProductServiceFrequencyLimitRestrictions",
+      "channelAccessProductServiceTypeUsage" : "channelAccessProductServiceTypeUsage",
+      "channelAccessProductServiceTimeDurationRestrictions" : "channelAccessProductServiceTimeDurationRestrictions",
+      "channelAccessProductServiceChannelDeviceRestrictions" : "channelAccessProductServiceChannelDeviceRestrictions",
+      "channelAccessProductServiceLocationRestrictions" : "channelAccessProductServiceLocationRestrictions"
+    }
+  },
+  "restrictionsRetrieveActionResponse" : "restrictionsRetrieveActionResponse"
+}

@@ -1,0 +1,33 @@
+{
+  "customerAccessProfileAgreementInstanceRecord" : {
+    "customerAccessAgreementValidFromToDate" : "09-22-2018",
+    "customerChannelAccessProfileRecord" : {},
+    "customerReference" : "725551"
+  },
+  "preferencesRetrieveActionTaskReference" : "PRATR763596",
+  "preferencesInstanceRecord" : {
+    "channelAccessPreferencesRecord" : {
+      "channelAccessPreferenceReference" : "756587",
+      "channelAccessPreferenceProfile" : {
+        "channelAccessChannelDeviceType" : "channelAccessChannelDeviceType",
+        "productServiceType" : "productServiceType",
+        "channelAccessChannelDeviceTypePreference" : "709344"
+      },
+      "channelAccessPreferenceType" : "channelAccessPreferenceType"
+    }
+  },
+  "preferencesInstanceAnalysis" : {
+    "preferencesInstanceAnalysisRecord" : {},
+    "preferencesInstanceAnalysisParameters" : "preferencesInstanceAnalysisParameters",
+    "preferencesInstanceAnalysisReportType" : "preferencesInstanceAnalysisReportType",
+    "preferencesInstanceAnalysisReport" : {}
+  },
+  "preferencesRetrieveActionResponse" : "preferencesRetrieveActionResponse",
+  "preferencesInstanceReport" : {
+    "preferencesInstanceReportType" : "preferencesInstanceReportType",
+    "preferencesInstanceReportRecord" : {},
+    "preferencesInstanceReportParameters" : "preferencesInstanceReportParameters",
+    "preferencesInstanceReport" : {}
+  },
+  "preferencesRetrieveActionTaskRecord" : {}
+}

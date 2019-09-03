@@ -1,0 +1,12 @@
+{
+  "customerAccessProfileAgreementUpdateActionTaskRecord" : {},
+  "customerAccessProfileAgreementInstanceRecord" : {
+    "customerAccessAgreementValidFromToDate" : "09-22-2018",
+    "customerChannelAccessProfileRecord" : {},
+    "customerReference" : "752425",
+    "customerAccessAgreementSignaturesResponsibleParties" : "customerAccessAgreementSignaturesResponsibleParties",
+    "documentDirectoryEntryInstanceReference" : "711506"
+  },
+  "updateResponseRecord" : {},
+  "customerAccessProfileAgreementUpdateActionTaskReference" : "CAPAUATR735986"
+}
